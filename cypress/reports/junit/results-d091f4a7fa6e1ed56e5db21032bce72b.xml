@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.9280" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-25T10:02:54" tests="0" file="cypress/integration/api-Automation-test/apiAutomation.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="API Automation Test" timestamp="2022-03-25T10:02:54" tests="5" time="0.9160" failures="0">
+    <testcase name="API Automation Test Create test for the endpoint “GET, LIST USERS”. " time="0.3570" classname="Create test for the endpoint “GET, LIST USERS”. ">
+    </testcase>
+    <testcase name="API Automation Test Create test for the endpoint “GET, SINGLE USER” " time="0.1580" classname="Create test for the endpoint “GET, SINGLE USER” ">
+    </testcase>
+    <testcase name="API Automation Test Create test for the endpoint “POST, CREATE” " time="0.1470" classname="Create test for the endpoint “POST, CREATE” ">
+    </testcase>
+    <testcase name="API Automation Test Create test for the endpoint “POST, REGISTER – UNSUCCESSFUL”" time="0.1440" classname="Create test for the endpoint “POST, REGISTER – UNSUCCESSFUL”">
+    </testcase>
+    <testcase name="API Automation Test Create a test that will interact with 2 endpoints" time="0.0920" classname="Create a test that will interact with 2 endpoints">
+    </testcase>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+{
+  "test1": {
+      "name": "Peter",
+      "job": "Sales"  
+  },
+  "test2":{
+    "email" :"sydney@fife"
+  }
+}
